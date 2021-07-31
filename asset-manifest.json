@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/igniteApp/static/css/main.a617e044.chunk.css",
+    "main.js": "/igniteApp/static/js/main.d5ced2a1.chunk.js",
+    "main.js.map": "/igniteApp/static/js/main.d5ced2a1.chunk.js.map",
+    "runtime-main.js": "/igniteApp/static/js/runtime-main.c9839afd.js",
+    "runtime-main.js.map": "/igniteApp/static/js/runtime-main.c9839afd.js.map",
+    "static/js/2.8bf8cfc5.chunk.js": "/igniteApp/static/js/2.8bf8cfc5.chunk.js",
+    "static/js/2.8bf8cfc5.chunk.js.map": "/igniteApp/static/js/2.8bf8cfc5.chunk.js.map",
+    "static/js/3.3e563f31.chunk.js": "/igniteApp/static/js/3.3e563f31.chunk.js",
+    "static/js/3.3e563f31.chunk.js.map": "/igniteApp/static/js/3.3e563f31.chunk.js.map",
+    "index.html": "/igniteApp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/igniteApp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8bf8cfc5.chunk.js.LICENSE.txt": "/igniteApp/static/js/2.8bf8cfc5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/igniteApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9839afd.js",
+    "static/js/2.8bf8cfc5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d5ced2a1.chunk.js"
+  ]
+}
